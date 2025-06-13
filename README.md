@@ -3,13 +3,13 @@
 <h2>University Projects:</h2>
 
 - <b>Data Structures and Algorithms Projects </b>
-  - [Percolation]
-  - [Queues]
-  - [Autocomplete]
-  - [K-d Trees]
-  - [WordNet]
-  - [SeamCarving]
-  - [FraudDetections]
+  - [Percolation](https://github.com/JonathanFlo15/A1)
+  - [Queues](https://github.com/JonathanFlo15/A2)
+  - [Autocomplete](https://github.com/JonathanFlo15/A3)
+  - [K-d Trees](https://github.com/JonathanFlo15/A4)
+  - [WordNet](https://github.com/JonathanFlo15/A5)
+  - [SeamCarving](https://github.com/JonathanFlo15/A6)
+  - [FraudDetections](https://github.com/JonathanFlo15/A7)
 - <b>C Language Projects</b>
   - [A De-Comment Program](https://github.com/JonathanFlo15/COS217A1)
   - [String Module Client](https://github.com/JonathanFlo15/COS217A2) 
