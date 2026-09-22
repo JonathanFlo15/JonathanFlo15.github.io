@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/JonathanFlo15">Junior at Princeton University</a>
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/JonathanFlo15">Senior at Princeton University</a>
 
 <h2>University Projects:</h2>
 
