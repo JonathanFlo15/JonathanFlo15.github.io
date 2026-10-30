@@ -1,47 +1,131 @@
-# Hi, I'm Jonathan!
 
-**Senior at Princeton University | Operations Research and Financial Engineering | Class of 2027**
+<div align="center">
 
-I'm interested in data science, machine learning, optimization, and using data to solve real-world problems. My experience includes building Python/SQL data workflows, analyzing large financial datasets, and developing machine learning projects.
+# Jonathan Flores
+
+### Princeton University · Operations Research & Financial Engineering · Class of 2027
+
+
+I'm interested in data science, machine learning, and optimization, particularly their applications to finance and decision-making.
+
+
+</div>
+
+---
+
+## About Me
+
+I'm a senior at **Princeton University**, pursuing a B.S.E. in **Operations Research and Financial Engineering**, with minors in **Computer Science** and **Optimization and Quantitative Decision Science**.
+
+I've worked with **Python, SQL, and financial datasets** through my data science internship at Finaktiva. My current senior thesis focuses on retirement portfolio optimization for households facing financial constraints.
+
+## Projects & Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Credit Card Fraud Detection](https://github.com/JonathanFlo15/A7)
+**Java · Classification · Clustering**
+
+Built a system to distinguish fraudulent from legitimate credit card transactions. Used **minimum-spanning-tree clustering** to identify transaction patterns and **boosted decision stumps** for classification.
+
+[View repository](https://github.com/JonathanFlo15/A7)
+
+</td>
+<td width="50%" valign="top">
+
+### Senior Thesis: Regime-Aware Retirement Portfolio Optimization
+**Research in progress · Sep 2026 – May 2027**
+
+Studying portfolio strategies for financially constrained households facing **changing market regimes, contribution limits, and labor-income shocks**. Advised by **Prof. Jason Altschuler** at Princeton.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Regime-Aware Portfolio Optimization
+**Python · CVXPY · Markov Chains**
+
+In a course assignment, modeled changes in market regimes and simulated **500 asset-return scenarios over 50 years**. Compared Markowitz, glide-path, play-safe, and catch-up investment strategies.
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Finance Optimization
+**Exploratory initiative · In progress**
+
+Collaborating with alumni and peers to explore **MaxiFi** and optimization-based personal financial planning, including potential ML applications under real-world budget constraints.
+
+</td>
+</tr>
+</table>
 
 ## Experience
 
-### Data Science Intern — Finaktiva | Medellín, Colombia
-- Developed and refined Python and SQL data workflows supporting an internal financial pricing initiative.
-- Analyzed approximately **396,000 invoice records** and benchmarked financing rates across **26 competitors**.
-- Engineered and validated features, classified supplier relationships, and automated data-quality checks.
+### Data Science Intern · Finaktiva
+*Medellín, Colombia · Summer 2026*
 
-## Selected Projects & Research
+- Developed a **Python/SQL data pipeline** integrating financial datasets and engineering features for pricing analysis.
+- Analyzed approximately **396,000 invoice records**, benchmarked rates against **26 competitors**, and classified supplier relationships.
+- Validated financing-rate features and automated **data-quality checks** to support an internal pricing tool.
 
-### Regime-Aware Retirement Portfolio Optimization — Senior Thesis (In Progress)
-Investigating retirement portfolio decisions for financially constrained households under changing market regimes, contribution constraints, and labor-income uncertainty. Combining statistical modeling and optimization; research ongoing.
+### Grader & Code Review Staff · Princeton University (COS 126)
+*Jan 2025 – Present*
 
-### Credit Card Fraud Detection
-Machine learning project focused on identifying fraudulent transactions. Explored classification approaches and model evaluation for an imbalanced prediction problem.
-
-### Regime-Aware Portfolio Optimization — Independent Project
-Exploring portfolio allocation strategies that account for changing market conditions and risk.
-
-## University Projects
-
-**Data Structures and Algorithms**
-- [Percolation](https://github.com/JonathanFlo15/A1)
-- [Queues](https://github.com/JonathanFlo15/A2)
-- [Autocomplete](https://github.com/JonathanFlo15/A3)
-- [K-d Trees](https://github.com/JonathanFlo15/A4)
-- [WordNet](https://github.com/JonathanFlo15/A5)
-- [Seam Carving](https://github.com/JonathanFlo15/A6)
-- [Fraud Detection](https://github.com/JonathanFlo15/A7)
-
-**C Programming**
-- [De-Comment Program](https://github.com/JonathanFlo15/COS217A1)
-- [String Module Client](https://github.com/JonathanFlo15/COS217A2)
+- Review Java assignments for correctness, efficiency, and code quality, applying rubrics across **50+ submissions**.
+- Lead one-on-one code reviews, helping students improve their debugging and implementation skills.
 
 ## Technical Skills
-**Languages:** Python, SQL, Java, C, R  
-**Areas:** Machine Learning, Statistical Modeling, Optimization, Data Analysis, Feature Engineering  
-**Tools:** pandas, Databricks, Git
 
-## Connect with Me
-- [GitHub](https://github.com/JonathanFlo15)
-- [LinkedIn](https://www.linkedin.com/in/jonathan-flores-a2a258219/)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, SQL, Java, MATLAB, C |
+| **Libraries & Tools** | pandas, NumPy, PyTorch, CVXPY, Databricks, Jupyter, Excel, Azure |
+| **Methods** | Machine Learning, Classification, Clustering, Stochastic Modeling, Optimization |
+| **Spoken Languages** | English (native), Spanish (native) |
+
+## More University Projects
+
+<details open>
+<summary><b>Algorithms & Data Structures (Java)</b></summary>
+
+| Project | Repository |
+| :--- | :--- |
+| Percolation | [A1](https://github.com/JonathanFlo15/A1) |
+| Queues | [A2](https://github.com/JonathanFlo15/A2) |
+| Autocomplete | [A3](https://github.com/JonathanFlo15/A3) |
+| K-d Trees | [A4](https://github.com/JonathanFlo15/A4) |
+| WordNet | [A5](https://github.com/JonathanFlo15/A5) |
+| Seam Carving | [A6](https://github.com/JonathanFlo15/A6) |
+| Fraud Detection | [A7](https://github.com/JonathanFlo15/A7) |
+
+</details>
+
+<details>
+<summary><b>Systems Programming (C)</b></summary>
+
+| Project | Repository |
+| :--- | :--- |
+| De-Comment Program | [COS217A1](https://github.com/JonathanFlo15/COS217A1) |
+| String Module Client | [COS217A2](https://github.com/JonathanFlo15/COS217A2) |
+
+</details>
+
+## Activities
+
+HSF Scholar · QuestBridge Chapter Representative · SHPE Member · Princeton Latin American Student Association (PLASA)
+
+---
+
+<div align="center">
+
+**Contact**
+
+<a href="https://www.linkedin.com/in/jonathan-flores-a2a258219/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="25" height="25"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/JonathanFlo15"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" width="25" height="25"></a>
+
+</div>
+
